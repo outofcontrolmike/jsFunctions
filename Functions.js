@@ -1,11 +1,4 @@
-/* Square the following number x
-function square1(x)
-{
-    return x * x;
-}
-
-
-*/
+/*
 
 // Square the given number x //
 function square1(x) {
@@ -29,4 +22,12 @@ for ( let i = 0; i <=10; i++)
         console.log(square1(i));
         console.log(square2(i));
     }
-    
+*/
+
+function min(x) 
+{
+    return x = x;
+}
+    console.log(Math.min(4.5, 5));
+    console.log(Math.min(19, 9));
+    console.log(Math.min(1, 1));
