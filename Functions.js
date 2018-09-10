@@ -1,4 +1,4 @@
-/*
+
 
 // Square the given number x //
 function square1(x) {
@@ -6,7 +6,7 @@ return x = x * x;
 } 
 
 function square2(x) {
-return x = x * x;
+return x = x * x * x;
 
 }
     console.log(square1(0));
@@ -22,7 +22,7 @@ for ( let i = 0; i <=10; i++)
         console.log(square1(i));
         console.log(square2(i));
     }
-*/
+// Min Power
 
 function min(x) 
 {
